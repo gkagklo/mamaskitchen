@@ -8,4 +8,4 @@
   4.  copy .env.example -> .env and setup db credentials
   5.  run php artisan migrate
   6.  run php artisan db:seed
-  7.  import database to db
+  7.  import database/mamaskitchen.sql to db
