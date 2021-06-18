@@ -2,7 +2,7 @@
 
 ## Installation
 
-  1. run git clone https://github.com/katsikar/indexchartretail.git
+  1. run git clone https://github.com/gkagklo/mamaskitchen.git
   2.  composer update --no-scripts
   3.  npm install
   4.  copy .env.example -> .env and setup db credentials
